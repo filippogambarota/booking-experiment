@@ -1,8 +1,16 @@
 # Prenotazione
 
-Per prenotarsi all'esperimento potete andare nel [**Colab Booking System**](http://colab.psy.unipd.it/booking-system/), iscrivervi e poi selezionare tra gli esperimenti disponibili **VWM Consciousness Behavioral**. Ci saranno diversi slot disponibili e potete scegliere quello che preferite.
+Per prenotarsi all'esperimento potete andare nel [**Colab Booking System**](http://colab.psy.unipd.it/booking-system/) e iscrivervi.
 
-Qui trovate un tutorial per iscrivervi e prenotarvi:
+# Esperimento
+
+**IMPORTANTE**, L'esperimento da selezionare è:
+
+Nome: **VWM Consciousness Behavioral**
+Experimenter: **Filippo Gambarota**
+Principal Investigator: **Filippo Gambarota**
+
+Potete selezionare il giorno e l'ora che preferite tra quello disponibili. Queste slide vi guidano nell'iscrizione e prenotazione.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfwb9VVbMW4PTRELFPOl5sXhJ0qAdzn-7CsaqrxJ3c1vHWhuYej2poyXk7j7_eEa3xpogVd0IRsLXP/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -14,4 +22,4 @@ Per qualsiasi dubbio/curiosità/domanda potete scrivermi a [filippo.gambarota@ph
 
 Questo QR-CODE riporta sempre su questo sito:
 
-<img src="files/qr-code.svg" width="400" height="400">
+<img src="files/qr-code.svg" width="300" height="300" class="center">
