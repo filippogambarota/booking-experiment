@@ -6,7 +6,7 @@ Per prenotarsi all'esperimento potete andare nel [**Colab Booking System**](http
 
 **IMPORTANTE**, L'esperimento da selezionare è:
 
-- Nome: **VWM Consciousness Behavioral**
+- Nome: **VWM Consciousness EEG*
 - Experimenter: **Filippo Gambarota**
 - Principal Investigator: **Filippo Gambarota**
 
