@@ -6,7 +6,7 @@ Per prenotarsi all'esperimento potete andare nel [**Colab Booking System**](http
 
 **IMPORTANTE**, L'esperimento da selezionare è:
 
-- Nome: **VWM Consciousness EEG**
+- Nome: **Multilab Unconscious WM**
 - Experimenter: **Filippo Gambarota**
 - Principal Investigator: **Filippo Gambarota**
 
@@ -16,7 +16,7 @@ Potete selezionare il giorno e l'ora che preferite tra quello disponibili. Quest
 
 # Contatti
 
-Per qualsiasi dubbio/curiosità/domanda potete scrivermi a [filippo.gambarota@phd.unipd.it](mailto:filippo.gambarota@phd.unipd.it)
+Per qualsiasi dubbio/curiosità/domanda potete scrivermi a [filippo.gambarota@unipd.it](mailto:filippo.gambarota@unipd.it)
 
 # QR CODE
 
