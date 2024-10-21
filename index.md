@@ -14,9 +14,15 @@ Potete selezionare il giorno e l'ora che preferite tra quello disponibili. Quest
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfwb9VVbMW4PTRELFPOl5sXhJ0qAdzn-7CsaqrxJ3c1vHWhuYej2poyXk7j7_eEa3xpogVd0IRsLXP/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+Se non ci fossero slot disponibili slot, potete mettere il vostro nome, cognome ed email qui [https://forms.gle/Yi46qHpo4CUYkRaP8](https://forms.gle/Yi46qHpo4CUYkRaP8) e verrete ricontattati il prima possibile.
+
 # Contatti
 
-Per qualsiasi dubbio/curiosità/domanda potete scrivermi a [filippo.gambarota@unipd.it](mailto:filippo.gambarota@unipd.it)
+Per qualsiasi dubbio/curiosità/domanda potete scrivere a:
+
+- [filippo.gambarota@unipd.it](mailto:filippo.gambarota@unipd.it)
+- [marco.ganiomego@studenti.unipd.it](mailto:marco.ganiomego@studenti.unipd.it)
+- [noemi.laselva@studenti.unipd.it](mailto:noemi.laselva@studenti.unipd.it)
 
 # QR CODE
 
